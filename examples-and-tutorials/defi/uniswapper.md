@@ -8,8 +8,8 @@ description: >-
 
 ## Branch Info
 
-**Author: **[Austin Griffith](https://github.com/austintgriffith)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/uniswapper](https://github.com/austintgriffith/scaffold-eth/tree/uniswapper)\
+**Author:** [Austin Griffith](https://github.com/austintgriffith)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/uniswapper](https://github.com/scaffold-eth/scaffold-eth-examples/tree/uniswapper)\
 **Intended audience:** Intermediate\
 **Topics:** Scaffold-eth basics, DEX
 
@@ -40,8 +40,8 @@ This branch uses a local fork of mainnet, which is easy to do with Hardhat ([see
 * Go to alchemyapi.io and get an API key for mainnet
 * Replace the Infura URL with an Alchemy URL with your API key (i.e. [https://eth-mainnet.alchemyapi.io/v2/](https://eth-mainnet.alchemyapi.io/v2/)\<API\_KEY\_HERE>) into the `fork` script on line 28 of /packages/hardhat/package.json
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app
 
 Notes:
 
-* This widget uses [tokenlists](https://tokenlists.org) to import the erc20s of your choice
+* This widget uses [tokenlists](https://tokenlists.org/) to import the erc20s of your choice

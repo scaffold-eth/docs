@@ -6,8 +6,8 @@ description: Diamond standard in 🏗 scaffold-eth
 
 ## Branch Info
 
-**Author: **[Viraz Malhotra](https://github.com/viraj124)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/diamond-standard](https://github.com/austintgriffith/scaffold-eth/tree/diamond-standard)\
+**Author:** [Viraz Malhotra](https://github.com/viraj124)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/diamond-standard](https://github.com/scaffold-eth/scaffold-eth-examples/tree/diamond-standard)\
 **Intended audience:** Beginners/Intermediate\
 **Topics:** Scaffold-eth basics, Contract Deployment, Upgradability
 

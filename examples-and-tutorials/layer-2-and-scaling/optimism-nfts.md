@@ -6,10 +6,10 @@ description: A "buyer mints" NFT gallery running on Optimism
 
 ## Branch Info
 
-**Author: **[Austin Griffith](https://github.com/austintgriffith)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/optimistic-nft-dev-session](https://github.com/austintgriffith/scaffold-eth/tree/optimistic-nft-dev-session)\
+**Author:** [Austin Griffith](https://github.com/austintgriffith)****\
+**Source code:**[ https://github.com/scaffold-eth/scaffold-eth-examples/tree/optimistic-nft-dev-session](https://github.com/scaffold-eth/scaffold-eth-examples/tree/optimistic-nft-dev-session)\
 **Intended audience:** Intermediate\
-**Topics:** Scaffold-eth basics, NFTs, Layer 2
+**Topics:** Scaffold-eth basics, NFTs, Layer 2, Optimism
 
 ## 🏃‍♀️ Quick Start
 
@@ -58,7 +58,7 @@ This branch has several contracts
 
 `L2DepositedERC20.sol` The example Optimism L2 Deposited ERC20 contract
 
-**Kudos & thanks to the Optimistic Ethereum team whose **[**erc20 example**](https://github.com/ethereum-optimism/optimism-tutorial/tree/deposit-withdrawal)** this benefited from!**
+**Kudos & thanks to the Optimistic Ethereum team whose** [**erc20 example**](https://github.com/ethereum-optimism/optimism-tutorial/tree/deposit-withdrawal) **this benefited from!**
 
 > in a third terminal window, generate a local account:
 
@@ -67,7 +67,7 @@ cd scaffold-eth
 yarn generate
 ```
 
-Send that account some ETH using the faucet from [http://localhost:3000/](http://localhost:3000) to fund the deployments
+Send that account some ETH using the faucet from [http://localhost:3000/](http://localhost:3000/) to fund the deployments
 
 > when the local nodes are up and running, deploy local contracts & attempt to go from L1 -> L2 and back again!
 

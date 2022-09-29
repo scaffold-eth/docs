@@ -6,8 +6,8 @@ description: Use VRF to get a 🎲 random "⚔️ strength" for each NFT as it i
 
 ## Branch Info
 
-**Author: **[Austin Griffith](https://github.com/austintgriffith)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/chainlink-vrf-nft](https://github.com/austintgriffith/scaffold-eth/tree/chainlink-vrf-nft)\
+**Author:** [Austin Griffith](https://github.com/austintgriffith)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/chainlink-vrf-nft](https://github.com/scaffold-eth/scaffold-eth-examples/tree/chainlink-vrf-nft)\
 **Intended audience:** Beginners/Intermediate\
 **Topics:** Scaffold-eth basics, NFTs, Chainlink
 
@@ -52,7 +52,7 @@ yarn upload
 yarn deploy
 ```
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app
 
 Your artwork from `artwork.json` (if uploaded and deployed correctly) should show a gallery of possible NFTS to mint:
 
@@ -78,7 +78,7 @@ Your artwork from `artwork.json` (if uploaded and deployed correctly) should sho
 
 [![image](https://user-images.githubusercontent.com/2653167/110538992-ec933780-80e1-11eb-9d15-aaa7efea698d.png)](https://user-images.githubusercontent.com/2653167/110538992-ec933780-80e1-11eb-9d15-aaa7efea698d.png)
 
-👛 Open an _incognito_ window and navigate to [http://localhost:3000](http://localhost:3000) (You'll notice it has a new wallet address).
+👛 Open an _incognito_ window and navigate to [http://localhost:3000](http://localhost:3000/) (You'll notice it has a new wallet address).
 
 ⛽️ Grab some gas for each account using the faucet:
 
@@ -110,7 +110,7 @@ Your artwork from `artwork.json` (if uploaded and deployed correctly) should sho
 
 [![image](https://user-images.githubusercontent.com/2653167/109537873-a2c0a680-7a7c-11eb-95de-729dbf3399a3.png)](https://user-images.githubusercontent.com/2653167/109537873-a2c0a680-7a7c-11eb-95de-729dbf3399a3.png)
 
-👛 View your deployer address using `yarn account` (You'll need to fund this account. Hint: use an [instant wallet](https://instantwallet.io) to fund your account via QR code)
+👛 View your deployer address using `yarn account` (You'll need to fund this account. Hint: use an [instant wallet](https://instantwallet.io/) to fund your account via QR code)
 
 [![image](https://user-images.githubusercontent.com/2653167/109537339-ff6f9180-7a7b-11eb-85b0-46cd72311d12.png)](https://user-images.githubusercontent.com/2653167/109537339-ff6f9180-7a7b-11eb-85b0-46cd72311d12.png)
 
@@ -134,7 +134,7 @@ You should see the correct network in the frontend:
 
 [![image](https://user-images.githubusercontent.com/2653167/109539305-655d1880-7a7e-11eb-9385-c169645dc2b5.png)](https://user-images.githubusercontent.com/2653167/109539305-655d1880-7a7e-11eb-9385-c169645dc2b5.png)
 
-An instant wallet running on xDAI insired by [xdai.io](https://xdai.io).
+An instant wallet running on xDAI insired by [xdai.io](https://xdai.io/).
 
 ### ⚔️ Side Quests
 
@@ -156,7 +156,7 @@ An instant wallet running on xDAI insired by [xdai.io](https://xdai.io).
 
 **🔶 Infura**
 
-> You will need to get a key from [infura.io](https://infura.io) and paste it into `constants.js` in `packages/react-app/src`:
+> You will need to get a key from [infura.io](https://infura.io/) and paste it into `constants.js` in `packages/react-app/src`:
 
 [![image](https://user-images.githubusercontent.com/2653167/109541146-b5d57580-7a80-11eb-9f9e-04ea33f5f45a.png)](https://user-images.githubusercontent.com/2653167/109541146-b5d57580-7a80-11eb-9f9e-04ea33f5f45a.png)
 

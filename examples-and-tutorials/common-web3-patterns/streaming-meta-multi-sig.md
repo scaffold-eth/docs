@@ -2,8 +2,8 @@
 
 ## Branch Info
 
-**Author: **[Amogh Jahagirdar](https://github.com/0xamogh)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/meta-multi-sig](https://github.com/austintgriffith/scaffold-eth/tree/meta-multi-sig)\
+**Author:** [Amogh Jahagirdar](https://github.com/0xamogh)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/meta-multi-sig](https://github.com/scaffold-eth/scaffold-eth-examples/tree/meta-multi-sig)\
 **Intended audience:** Intermediate\
 **Topics:** Scaffold-eth basics, multi-sig wallets
 
@@ -45,7 +45,7 @@ yarn deploy
 
 💼 Edit your deployment script `deploy.js` in `packages/hardhat/scripts`
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app
 
 > in a fourth terminal window:
 

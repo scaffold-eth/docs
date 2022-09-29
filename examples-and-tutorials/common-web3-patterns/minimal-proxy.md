@@ -8,8 +8,8 @@ description: >-
 
 ## Branch Info
 
-**Author: **[Viraz Malhotra](https://github.com/viraj124)****\
-**Source code:** [https://github.com/austintgriffith/scaffold-eth/tree/minimal\_proxy](https://github.com/austintgriffith/scaffold-eth/tree/minimal\_proxy)\
+**Author:** [Viraz Malhotra](https://github.com/viraj124)****\
+**Source code:**[ https://github.com/austintgriffith/scaffold-eth/tree/minimal\_proxy](https://github.com/austintgriffith/scaffold-eth/tree/minimal\_proxy)\
 **Intended audience:** Beginners/Intermediate\
 **Topics:** Scaffold-eth basics, Contract Deployment
 
@@ -72,11 +72,11 @@ The working of a minimal proxy is as follows sequentially
 
 #### How to interact with a external contract?
 
-So let's say you want to interact with [compound finance](https://compound.finance) contracts to open a new position or any other contract via your proxy contract it's not striaghtforward that you call `function execute(address _target, bytes memory _data)` in your proxy as the owner and pass the external contract's address as the \_target address your transaction will fail if you do that since when you interact with any external contract via proxy the storage context will always be that of the proxy contract.
+So let's say you want to interact with [compound finance](https://compound.finance/) contracts to open a new position or any other contract via your proxy contract it's not striaghtforward that you call `function execute(address _target, bytes memory _data)` in your proxy as the owner and pass the external contract's address as the \_target address your transaction will fail if you do that since when you interact with any external contract via proxy the storage context will always be that of the proxy contract.
 
 The best way to do it to have a connector contract in between without any storage, so the how this would work is : proxy owner -> proxy -> connector contract -> external contract
 
-Here is an [example](https://github.com/viraj124/Compound-Finance-Connector/blob/master/Compound%20Connector%20Contract.sol) of a very simple and minimal connector contract I created a long time ago which interact with [compound's](https://compound.finance) contracts.
+Here is an [example](https://github.com/viraj124/Compound-Finance-Connector/blob/master/Compound%20Connector%20Contract.sol) of a very simple and minimal connector contract I created a long time ago which interact with [compound's](https://compound.finance/) contracts.
 
 #### Proxy Deployment and Interaction
 

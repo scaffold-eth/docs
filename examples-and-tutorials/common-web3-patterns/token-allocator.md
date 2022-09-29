@@ -8,8 +8,8 @@ description: >-
 
 ## Branch Info
 
-**Author: **[Austin Griffith](https://github.com/austintgriffith)****\
-**Source code:** [https://github.com/scaffole-eth/scaffold-eth-examples/tree/new-allocator](https://github.com/austintgriffith/scaffold-eth/tree/new-allocator)\
+**Author:** [Austin Griffith](https://github.com/austintgriffith)****\
+**Source code:** [https://github.com/scaffole-eth/scaffold-eth-examples/tree/new-allocator](https://github.com/scaffole-eth/scaffold-eth-examples/tree/new-allocator)\
 **Intended audience:** Intermediate\
 **Topics:** Scaffold-eth, ERC-20 token
 
@@ -73,7 +73,7 @@ yarn install
 yarn start
 ```
 
-If you want to bring up a local chain and work there, edit `hardhat.config.js` and `app.jsxhttps://github.com/austintgriffith/scaffold-eth/tree/simple-nft-example to use `localhost`instead of`mainnet\`.
+If you want to bring up a local chain and work there, edit `hardhat.config.js` and `app.jsxhttps://github.com/austintgriffith/scaffold-eth/tree/simple-nft-example to use` localhost`instead of`mainnet\`.
 
 > in a second terminal window:
 
@@ -93,7 +93,7 @@ yarn deploy
 
 💼 Edit your deployment script `deploy.js` in `packages/hardhat/scripts`
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app
 
 **Contracts:**
 

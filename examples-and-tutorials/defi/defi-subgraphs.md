@@ -2,8 +2,8 @@
 
 ## Branch Info
 
-**Author: **[0x harry rana](https://github.com/harryranakl)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/defi-subgraphs](https://github.com/austintgriffith/scaffold-eth/tree/defi-subgraphs)\
+**Author:** [0x harry rana](https://github.com/harryranakl)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/defi-subgraphs](https://github.com/scaffold-eth/scaffold-eth-examples/tree/defi-subgraphs)\
 **Intended audience:** Beginners/Intermediate\
 **Topics:** Scaffold-eth basics, Subgraphs, DeFi
 
@@ -37,7 +37,7 @@ cd scaffold-eth
 yarn deploy
 ```
 
-If everything goes smoothly you should now have a local network running, with the starter contracts deployed and the frontend React app running on [https://localhost:3000](https://localhost:3000).
+If everything goes smoothly you should now have a local network running, with the starter contracts deployed and the frontend React app running on [https://localhost:3000](https://localhost:3000/).
 
 ## Preview
 

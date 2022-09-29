@@ -31,7 +31,7 @@ cd scaffold-eth
 yarn start
 ```
 
-In your browser, open [http://localhost:3000/](http://localhost:3000) to start playing around with it.
+In your browser, open [http://localhost:3000/](http://localhost:3000/) to start playing around with it.
 
 ## What did we do just now?
 
@@ -58,7 +58,7 @@ You should see something like this:
 
 ![Hardhat Network is now running on localhost, port 8545](<../.gitbook/assets/screen-shot-2021-06-24-at-11.01.16-am (1).png>)
 
-**Congratulations! You now have a local blockchain running on your computer. **
+**Congratulations! You now have a local blockchain running on your computer.**&#x20;
 
 {% hint style="info" %}
 By default Hardhat Network starts with 20 accounts with 10,000 ETH each, generated with the mnemonic: `test test test test test test test test test test test junk`
@@ -85,7 +85,7 @@ Now that we have a local network running and our smart contract deployed to it, 
 
 Scaffold-eth comes with React and offers a lot of helper components and hooks to make it very easy to connect to a network and start interacting with your smart contracts right away.&#x20;
 
-In order to see and interact with the smart contract we just deployed to the Hardhat Network, run the following command in _**yet another new **_terminal window.
+In order to see and interact with the smart contract we just deployed to the Hardhat Network, run the following command in _**yet another new**_ terminal window.
 
 ```
 cd scaffold-eth
@@ -98,7 +98,7 @@ Once the development server starts and your app is done compiling it should be r
 
 The starter project comes with a few pre-made views, but the ones you should focus on for now are the YourContract section and the ExampleUI section which showcase the two ways you can work with Scaffold-eth to build UIs.
 
-**The YourContract section **is using one of the many handy React components Scaffold-eth offers, the `<Contract />` component, which given a contract name you have compiled, it will parse it and create a UI for it exposing all the public variables and methods it has. This is very useful when you want to quickly test your contracts but offers no flexibility in terms of good UX.
+**The YourContract section** is using one of the many handy React components Scaffold-eth offers, the `<Contract />` component, which given a contract name you have compiled, it will parse it and create a UI for it exposing all the public variables and methods it has. This is very useful when you want to quickly test your contracts but offers no flexibility in terms of good UX.
 
 In this case, `YourContract.sol` has a `purpose` public string which anyone can change by calling `setPurpose(string)`.&#x20;
 
@@ -155,7 +155,7 @@ Now that we covered the basics of Scaffold-eth, you should try to familiarize yo
 * :briefcase: Edit and add your deployment scripts in `packages/hardhat/deploy` - we are using [hardhat-deploy](https://www.npmjs.com/package/hardhat-deploy)
 * :pencil2: Make small changes to `YourContract.sol` and watch your app auto update!
 * :repeat: You can `yarn deploy` any time and get a fresh new contract in the frontend
-* :construction\_worker: Look for the [HardHat](https://hardhat.org) console.log() output in the `yarn chain` terminal
+* :construction\_worker: Look for the [HardHat](https://hardhat.org/) console.log() output in the `yarn chain` terminal
 * :alembic: Spend some time tinkering with `YourContract.sol`
 
 {% hint style="info" %}

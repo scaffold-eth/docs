@@ -94,7 +94,7 @@ Displays input field for ETH/USD amount, with an option to convert between ETH a
 * Provide price={price} of ether and easily convert between USD and ETH
 * Provide value={value} to specify initial amount of ether
 * Provide placeholder="Enter amount" value for the input
-* Control input change by onChange={value => { setAmount(value);}}
+* Control input change by onChange={value => { setAmount(value);\}}
 
 [Faucet](https://github.com/scaffold-eth/eth-components#Faucet) ⇒
 
@@ -119,6 +119,10 @@ Displays gas gauge
 \~ Features \~
 
 * Provide gasPrice={gasPrice} and get current gas gauge
+
+NetworkDisplay =>
+
+
 
 [PunkBlockie](https://github.com/scaffold-eth/eth-components#PunkBlockie) ⇒
 
@@ -180,7 +184,7 @@ Displays an Address, Balance, and Wallet as one Account component, also allows u
 * Provide mainnetProvider={mainnetProvider} and your address will be replaced by ENS name (ex. "0xa870" => "user.eth")
 * Provide price={price} of ether and get your balance converted to dollars
 * Provide web3Modal={web3Modal}, loadWeb3Modal={loadWeb3Modal}, logoutOfWeb3Modal={logoutOfWeb3Modal} to be able to log in/log out to/from existing accounts
-* Provide blockExplorer={blockExplorer}, click on address and get the link (ex. by default "[https://etherscan.io/](https://etherscan.io)" or for xdai "[https://blockscout.com/poa/xdai/](https://blockscout.com/poa/xdai/)")
+* Provide blockExplorer={blockExplorer}, click on address and get the link (ex. by default "[https://etherscan.io/](https://etherscan.io/)" or for xdai "[https://blockscout.com/poa/xdai/](https://blockscout.com/poa/xdai/)")
 
 **Kind**: global constant\
 **Returns**: (FC)
@@ -196,7 +200,7 @@ Displays an address with a blockie image and option to copy address
 \~ Features \~
 
 * Provide ensProvider={mainnetProvider} and your address will be replaced by ENS name (ex. "0xa870" => "user.eth")
-* Provide blockExplorer={blockExplorer}, click on address and get the link (ex. by default "[https://etherscan.io/](https://etherscan.io)" or for xdai "[https://blockscout.com/poa/xdai/](https://blockscout.com/poa/xdai/)")
+* Provide blockExplorer={blockExplorer}, click on address and get the link (ex. by default "[https://etherscan.io/](https://etherscan.io/)" or for xdai "[https://blockscout.com/poa/xdai/](https://blockscout.com/poa/xdai/)")
 * Provide fontSize={fontSize} to change the size of address text
 
 **Kind**: global constant\
@@ -213,7 +217,7 @@ Displays an address input with QR scan option \~ Features \~
 * Provide ensProvider={mainnetProvider} and your address will be replaced by ENS name (ex. "0xa870" => "user.eth") or you can enter directly ENS name instead of address
 * Provide placeholder="Enter address" value for the input
 * Value of the address input is stored in value={toAddress}
-* Control input change by onChange={setToAddress} or onChange={address => { setToAddress(address);}}
+* Control input change by onChange={setToAddress} or onChange={address => { setToAddress(address);\}}
 
 **Kind**: global constant\
 **Returns**: (FC)
@@ -257,7 +261,7 @@ Displays input field for ETH/USD amount, with an option to convert between ETH a
 * Provide price={price} of ether and easily convert between USD and ETH
 * Provide value={value} to specify initial amount of ether
 * Provide placeholder="Enter amount" value for the input
-* Control input change by onChange={value => { setAmount(value);}}
+* Control input change by onChange={value => { setAmount(value);\}}
 
 **Kind**: global constant\
 **Returns**: (FC)

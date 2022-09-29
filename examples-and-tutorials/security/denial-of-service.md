@@ -2,8 +2,8 @@
 
 ## Branch Info
 
-**Author: **[Temirzhan Yussupov](https://github.com/ironsoul0)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/denial-of-service-example](https://github.com/austintgriffith/scaffold-eth/tree/denial-of-service-example)\
+**Author:** [Temirzhan Yussupov](https://github.com/ironsoul0)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/denial-of-service-example](https://github.com/scaffold-eth/scaffold-eth-examples/tree/denial-of-service-example)\
 **Intended audience:** Intermediate\
 **Topics:** Scaffold-eth basics, Smart Contracts
 
@@ -59,7 +59,7 @@ yarn install
 yarn start
 ```
 
-1. Spin up your local blockchain using [Hardhat](https://hardhat.org)
+1. Spin up your local blockchain using [Hardhat](https://hardhat.org/)
 
 ```
 yarn chain
@@ -71,7 +71,7 @@ yarn chain
 yarn deploy
 ```
 
-**Pro Tip: **Use [tmux](https://linuxize.com/post/getting-started-with-tmux/) to easily start all commands in a single terminal window!
+**Pro Tip:** Use [tmux](https://linuxize.com/post/getting-started-with-tmux/) to easily start all commands in a single terminal window!
 
 This is how it looks like in my terminal:
 

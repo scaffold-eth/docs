@@ -2,8 +2,8 @@
 
 ## Branch Info
 
-**Author: **[Hunter Chang](https://github.com/ChangoMan)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/simple-nft-example](https://github.com/austintgriffith/scaffold-eth/tree/simple-nft-example)\
+**Author:** [Hunter Chang](https://github.com/ChangoMan)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/simple-nft-example](https://github.com/scaffold-eth/scaffold-eth-examples/tree/simple-nft-example)\
 **Intended audience:** Beginners/Intermediate\
 **Topics:** Scaffold-eth basics, NFTs, IPFS
 
@@ -46,7 +46,7 @@ cd simple-nft-example
 yarn deploy
 ```
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app
 
 > ✏️ Edit the mint script `mint.js` in `packages/hardhat/scripts` and update the `toAddress` to your frontend address (wallet address in the top right or localhost:3000).
 
@@ -64,7 +64,7 @@ yarn mint
 
 ![](https://user-images.githubusercontent.com/2653167/109536827-6c365c00-7a7b-11eb-8482-2a7bb33a1bb5.png)
 
-👛 Open an _incognito_ window and navigate to [http://localhost:3000](http://localhost:3000) (You'll notice it has a new wallet address).
+👛 Open an _incognito_ window and navigate to [http://localhost:3000](http://localhost:3000/) (You'll notice it has a new wallet address).
 
 ⛽️ Grab some gas for each account using the faucet:
 
@@ -98,7 +98,7 @@ yarn mint
 
 ![](https://user-images.githubusercontent.com/2653167/109537873-a2c0a680-7a7c-11eb-95de-729dbf3399a3.png)
 
-👛 View your deployer address using `yarn account` (You'll need to fund this account. Hint: use an [instant wallet](https://instantwallet.io) to fund your account via QR code)
+👛 View your deployer address using `yarn account` (You'll need to fund this account. Hint: use an [instant wallet](https://instantwallet.io/) to fund your account via QR code)
 
 ![](https://user-images.githubusercontent.com/2653167/109537339-ff6f9180-7a7b-11eb-85b0-46cd72311d12.png)
 
@@ -116,7 +116,7 @@ You should see the correct network in the frontend:
 
 ![](https://user-images.githubusercontent.com/2653167/109539305-655d1880-7a7e-11eb-9385-c169645dc2b5.png)
 
-An instant wallet running on xDAI insired by [xdai.io](https://xdai.io).
+An instant wallet running on xDAI insired by [xdai.io](https://xdai.io/).
 
 🎫 Ready to mint a batch of NFTs for reals?
 
@@ -159,7 +159,7 @@ Once verified, they will then be available to view on Tenderly!
 
 ### **🔶 Infura**
 
-> You will need to get a key from [infura.io](https://infura.io) and paste it into `constants.js` in `packages/react-app/src`:
+> You will need to get a key from [infura.io](https://infura.io/) and paste it into `constants.js` in `packages/react-app/src`:
 
 ![](https://user-images.githubusercontent.com/2653167/109541146-b5d57580-7a80-11eb-9f9e-04ea33f5f45a.png)
 

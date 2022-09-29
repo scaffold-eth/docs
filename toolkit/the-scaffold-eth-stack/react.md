@@ -6,7 +6,7 @@ description: >-
 
 # 🧰 React
 
-Scaffold-eth uses React for the frontend. You can learn more about React here: [https://reactjs.org/](https://reactjs.org)
+Scaffold-eth uses React for the frontend. You can learn more about React here: [https://reactjs.org/](https://reactjs.org/)
 
 React tutorial: [https://reactjs.org/tutorial/tutorial.html](https://reactjs.org/tutorial/tutorial.html)
 
@@ -16,7 +16,7 @@ Complete guide to react - Udemy guide (low cost, highly effective): [https://www
 
 #### To get started, edit your frontend here: `App.jsx` in `packages/react-app/src`
 
-:satellite: Make sure your `targetNetwork` is the same as :construction_worker: HardHat's `defaultNetwork` (where you deployed your contracts):
+:satellite: Make sure your `targetNetwork` is the same as :construction\_worker: HardHat's `defaultNetwork` (where you deployed your contracts):
 
 ![Set your targetNetwork](../../.gitbook/assets/screen-shot-2021-09-29-at-2.11.46-pm.png)
 
@@ -24,4 +24,4 @@ Complete guide to react - Udemy guide (low cost, highly effective): [https://www
 
 ![](../../.gitbook/assets/screen-shot-2021-09-29-at-2.07.36-pm.png)
 
-For more information about the React components, helpers, and hooks that come out of the box with Scaffold-eth checkout the React App section. 
+For more information about the React components, helpers, and hooks that come out of the box with Scaffold-eth checkout the React App section.&#x20;

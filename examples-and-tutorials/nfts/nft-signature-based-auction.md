@@ -2,8 +2,8 @@
 
 ## &#x20;Branch Info
 
-**Author: **[Temirzhan Yussupov](https://github.com/ironsoul0)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/signature-nft-auction](https://github.com/austintgriffith/scaffold-eth/tree/signature-nft-auction)\
+**Author:** [Temirzhan Yussupov](https://github.com/ironsoul0)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/signature-nft-auction](nft-signature-based-auction.md#branch-info)\
 **Intended audience:** Intermediate\
 **Topics:** Scaffold-eth basics, NFTs
 
@@ -35,7 +35,7 @@ We will show you how a simple Signature based NFT auction can be built and also 
 
 #### Prerequisites
 
-You have to know what is an ERC721 standard and what is NFT. Please refer to [this](http://erc721.org) and [this](https://docs.openzeppelin.com/contracts/4.x/erc721) for more information if you are not familiar with these terms.
+You have to know what is an ERC721 standard and what is NFT. Please refer to [this](http://erc721.org/) and [this](https://docs.openzeppelin.com/contracts/4.x/erc721) for more information if you are not familiar with these terms.
 
 #### Installation
 

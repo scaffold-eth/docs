@@ -8,8 +8,8 @@ description: >-
 
 ## Branch Info
 
-**Author: **[Viraz Malhotra](https://github.com/viraj124)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/nft-auction](https://github.com/austintgriffith/scaffold-eth/tree/nft-auction)\
+**Author:** [Viraz Malhotra](https://github.com/viraj124)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/nft-auction](https://github.com/scaffold-eth/scaffold-eth-examples/tree/nft-auction)\
 **Intended audience:** Beginners/Intermediate\
 **Topics:** Scaffold-eth basics, NFTs
 
@@ -43,7 +43,7 @@ We will show you how a simple NFT auction can be built and also will demonstrate
 
 #### Prerequisites
 
-You have to know what is an ERC721 standard and what is NFT. Please refer to [this](http://erc721.org) and [this](https://docs.openzeppelin.com/contracts/4.x/erc721) for more information if you are not familiar with these terms.
+You have to know what is an ERC721 standard and what is NFT. Please refer to [this](http://erc721.org/) and [this](https://docs.openzeppelin.com/contracts/4.x/erc721) for more information if you are not familiar with these terms.
 
 #### Installation
 

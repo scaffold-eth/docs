@@ -70,7 +70,7 @@ Of course, you can also take your build folder and use it to ship your app throu
 
 #### **Step 1:  Setup**
 
-Make sure your build is properly configured as explained in this page above.** **Then, run the following command to build your app:
+Make sure your build is properly configured as explained in this page above. **** Then, run the following command to build your app:
 
 ```
 cd scaffold-eth
@@ -81,7 +81,7 @@ If successful, you should see something like this:
 
 ![](../.gitbook/assets/screen-shot-2021-06-25-at-10.53.57-am.png)
 
-You should now have a `build` folder in `/packages/react-app`. 
+You should now have a `build` folder in `/packages/react-app`.&#x20;
 
 #### Step 2: Deployment
 
@@ -131,7 +131,7 @@ netlify deploy -p
 
 Follow the console prompts. Note that when asked for the `Deploy Path` you should enter the folder where your build was generated, which by default should be **`/packages/react-app/build`**
 
-Once it's done uploading, you should see something like this: 
+Once it's done uploading, you should see something like this:&#x20;
 
 ```
 ✔ Finished hashing 23 files
@@ -156,7 +156,7 @@ Deploying with CI can be done, but currently Scaffold-eth is not prepared for it
 
 **Step 3:** Go to your new site settings-> Build and deploy in "Build Settings" make the following changes:
 
-1.  Instruct it where to find the `build` folder it is going to generate buy adding the path to "Publish Directory".
+1. &#x20;Instruct it where to find the `build` folder it is going to generate buy adding the path to "Publish Directory".
 2. Add `CI=false` to "Build Command" to prevent the build from failing because of build warnings.
 
 ![](../.gitbook/assets/screen-shot-2021-06-28-at-2.44.04-pm.png)
@@ -164,7 +164,7 @@ Deploying with CI can be done, but currently Scaffold-eth is not prepared for it
 **Step 4:** Deploy
 
 Go to the site's Deploys section and trigger a deploy. After a while your site should be live.\
-_Notice a build will trigger automatically every time a new commit is made on the selected branch. _
+_Notice a build will trigger automatically every time a new commit is made on the selected branch._&#x20;
 
 ![](../.gitbook/assets/screen-shot-2021-06-28-at-2.47.08-pm.png)
 

@@ -8,8 +8,8 @@ description: >-
 
 ## Branch Info
 
-**Author: **[Austin Griffith](https://github.com/austintgriffith)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/emoji-support](https://github.com/austintgriffith/scaffold-eth/tree/emoji-support)\
+**Author:** [Austin Griffith](https://github.com/austintgriffith)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/emoji-support](https://github.com/scaffold-eth/scaffold-eth-examples/tree/emoji-support)\
 **Intended audience:** Intermediate\
 **Topics:** Scaffold-eth basics, quadratic matching
 
@@ -49,7 +49,7 @@ yarn deploy
 
 📝 Edit your frontend `App.jsx` in `packages/react-app/src`
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app
 
 📡 Deploy by creating account `yarn generate` send funds to `yarn account` and then edit `packages/buidler/buidler.config.js` defaultNetwork
 

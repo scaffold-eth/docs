@@ -8,8 +8,8 @@ description: >-
 
 ## Branch Info
 
-**Author: **[Austin Griffith](https://github.com/austintgriffith)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/simple-stream](https://github.com/austintgriffith/scaffold-eth/tree/simple-stream)\
+**Author:** [Austin Griffith](https://github.com/austintgriffith)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/simple-stream](https://github.com/scaffold-eth/scaffold-eth-examples/tree/simple-stream)\
 **Intended audience:** Beginners/Intermediate\
 **Topics:** Scaffold-eth basics, ETH Stream
 
@@ -55,7 +55,7 @@ yarn deploy
 
 😯 The UI is mostly in `ExampleUI.jsx` in `packages/react-app/src/views`
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app
 
 [![image](https://user-images.githubusercontent.com/2653167/117220266-1ad08300-adc4-11eb-9f14-cd794b018299.png)](https://user-images.githubusercontent.com/2653167/117220266-1ad08300-adc4-11eb-9f14-cd794b018299.png)
 

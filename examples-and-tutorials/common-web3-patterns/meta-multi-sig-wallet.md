@@ -6,8 +6,8 @@ description: An off-chain signature-based multi-sig wallet
 
 ## Branch Info
 
-**Author: **[Amogh Jahagirdar](https://github.com/0xamogh)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/meta-multi-sig](https://github.com/austintgriffith/scaffold-eth/tree/meta-multi-sig)\
+**Author:** [Amogh Jahagirdar](https://github.com/0xamogh)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/meta-multi-sig](https://github.com/scaffold-eth/scaffold-eth-examples/tree/meta-multi-sig)\
 **Intended audience:** Intermediate\
 **Topics:** Scaffold-eth basics, multi-sig wallets
 
@@ -44,7 +44,7 @@ yarn chain
 
 💼 Edit your deployment script `deploy.js` in `packages/hardhat/scripts`
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app
 
 > in a third terminal window:
 
@@ -140,7 +140,7 @@ Make a MultiSig wallet to store your precious doodle-NFTs!?
 
 [![image](https://user-images.githubusercontent.com/2653167/109537873-a2c0a680-7a7c-11eb-95de-729dbf3399a3.png)](https://user-images.githubusercontent.com/2653167/109537873-a2c0a680-7a7c-11eb-95de-729dbf3399a3.png)
 
-👛 View your deployer address using `yarn account` (You'll need to fund this account. Hint: use an [instant wallet](https://instantwallet.io) to fund your account via QR code)
+👛 View your deployer address using `yarn account` (You'll need to fund this account. Hint: use an [instant wallet](https://instantwallet.io/) to fund your account via QR code)
 
 [![image](https://user-images.githubusercontent.com/2653167/109537339-ff6f9180-7a7b-11eb-85b0-46cd72311d12.png)](https://user-images.githubusercontent.com/2653167/109537339-ff6f9180-7a7b-11eb-85b0-46cd72311d12.png)
 
@@ -166,7 +166,7 @@ Alternatively you can use the pool server url in the above screenshot
 
 **🔶 Infura**
 
-> You will need to get a key from [infura.io](https://infura.io) and paste it into `constants.js` in `packages/react-app/src`:
+> You will need to get a key from [infura.io](https://infura.io/) and paste it into `constants.js` in `packages/react-app/src`:
 
 [![image](https://user-images.githubusercontent.com/2653167/109541146-b5d57580-7a80-11eb-9f9e-04ea33f5f45a.png)](https://user-images.githubusercontent.com/2653167/109541146-b5d57580-7a80-11eb-9f9e-04ea33f5f45a.png)
 

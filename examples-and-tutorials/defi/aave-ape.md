@@ -6,8 +6,8 @@ description: A helper contract that lets you go long on the Aave asset of your c
 
 ## Branch Info
 
-**Author: **[Adam Fuller](https://github.com/azf20)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/aave-ape](https://github.com/austintgriffith/scaffold-eth/tree/aave-ape)\
+**Author:** [Adam Fuller](https://github.com/azf20)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/aave-ape](https://github.com/scaffold-eth/scaffold-eth-examples/tree/aave-ape)\
 **Intended audience:** Beginners/Intermediate\
 **Topics:** Scaffold-eth basics, Aave
 
@@ -59,7 +59,7 @@ yarn deploy
 
 > This tests then deploys the Aave Ape contract
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app!
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app!
 
 #### Running on Kovan
 

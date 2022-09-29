@@ -2,8 +2,8 @@
 
 ## Branch Info
 
-**Author: **[Adam Fuller](https://github.com/azf20)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/lender#quickstart](https://github.com/austintgriffith/scaffold-eth/tree/lender#quickstart)\
+**Author:** [Adam Fuller](https://github.com/azf20)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/lender#quickstart](https://github.com/scaffold-eth/scaffold-eth-examples/tree/lender#quickstart)\
 **Intended audience:** Beginners/Intermediate\
 **Topics:** Scaffold-eth basics, Aave, ETH-DAI
 
@@ -36,7 +36,7 @@ This branch uses a local fork of mainnet, which is easy to do with Hardhat ([see
 * Go to alchemyapi.io and get an API key for mainnet
 * Replace the Infura URL with an Alchemy URL with your API key (i.e. [https://eth-mainnet.alchemyapi.io/v2/](https://eth-mainnet.alchemyapi.io/v2/)\<API\_KEY\_HERE>) into the `fork` script on line 28 of /packages/hardhat/package.json
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app
 
 * Send your burner wallet some ETH using the faucet
 * Swap some ETH for DAI

@@ -8,8 +8,8 @@ description: >-
 
 ## Branch Info
 
-**Author: **[Austin Griffith](https://github.com/austintgriffith)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/merkle-root-buyer-mints](https://github.com/austintgriffith/scaffold-eth/tree/merkle-root-buyer-mints)\
+**Author:** [Austin Griffith](https://github.com/austintgriffith)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/merkle-root-buyer-mints](https://github.com/scaffold-eth/scaffold-eth-examples/tree/merkle-root-buyer-mints)\
 **Intended audience:** Beginners/Intermediate\
 **Topics:** Scaffold-eth basics, NFTs, Merkle Tree
 
@@ -30,13 +30,13 @@ Table of Contents
 
 ### About The Project
 
-This branch uses the concept of [merkel root](https://www.investopedia.com/terms/m/merkle-root-cryptocurrency.asp#:\~:text=A%20Merkle%20root%20is%20a,whole%2C%20undamaged%2C%20and%20unaltered.) to verify on chain NFT minting. So instead of pushing all verfied NFT hashes on-chain which would be quite expensive we generate a merkel root by modifying [these](https://github.com/Uniswap/merkle-distributor/tree/master/src) scripts to make our life easier.
+This branch uses the concept of [merkel root](https://www.investopedia.com/terms/m/merkle-root-cryptocurrency.asp) to verify on chain NFT minting. So instead of pushing all verfied NFT hashes on-chain which would be quite expensive we generate a merkel root by modifying [these](https://github.com/Uniswap/merkle-distributor/tree/master/src) scripts to make our life easier.
 
 ### Getting Started
 
 #### Prerequisites
 
-You have to know what is an ERC721 standard and what is NFT. Please refer to [this](http://erc721.org) and [this](https://docs.openzeppelin.com/contracts/4.x/erc721) for more information if you are not familiar with these terms.
+You have to know what is an ERC721 standard and what is NFT. Please refer to [this](http://erc721.org/) and [this](https://docs.openzeppelin.com/contracts/4.x/erc721) for more information if you are not familiar with these terms.
 
 #### Installation
 

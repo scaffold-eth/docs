@@ -6,10 +6,10 @@ description: Start using Chainlink in your smart contracts and front-end today �
 
 ## Branch Info
 
-**Author: **[pharo.eth](https://twitter.com/Pharo44153106) 🥷🏽\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/chainlink-tutorial-1](https://github.com/scaffold-eth/scaffold-eth/tree/chainlink-tutorial-1)\
+**Author:** [pharo.eth](https://twitter.com/Pharo44153106) 🥷🏽\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/chainlink-tutorial-1](https://github.com/scaffold-eth/scaffold-eth-examples/tree/chainlink-tutorial-1)\
 **Intended audience:** Beginners/Intermediate\
-**Topics:** Scaffold-eth basics, Chainlink, API Integration
+**Topics:** Scaffold-eth basics, Chainlink, API Integration, VRF, Price Feeds
 
 ## Getting Started & Setting Up
 
@@ -29,7 +29,7 @@ yarn install
 Generate a deployer account and mnemonic.
 
 ```bash
-yarn run generate
+yarn generate
 ```
 
 You can ignore the warnings here.
@@ -40,11 +40,11 @@ You need to fund your account with ETH to deploy on the Kovan network. By runnin
 
 Testnet ETH is available from:
 
-* Kovan:  [https://faucet.kovan.network/](https://faucet.kovan.network)
-* Rinkeby: [https://faucet.rinkeby.io/](https://faucet.rinkeby.io)
+* Kovan:  [https://faucet.kovan.network/](https://faucet.kovan.network/)
+* Rinkeby: [https://faucet.rinkeby.io/](https://faucet.rinkeby.io/)
 
 ```bash
-yarn run account
+yarn account
 ```
 
 ![](../../.gitbook/assets/106749192-36c15e80-65f4-11eb-8365-64f66569c899.png)
@@ -67,9 +67,9 @@ When your application starts at http://localhost:3000 you will see your contract
 
 You still need to fund the RandomNumberConsumer contract with LINK so copy the address and send it some test LINK.&#x20;
 
-** Side Quest - use deploy.js to fund the contract with LINK after funding deployer account. **
+&#x20;**Side Quest - use deploy.js to fund the contract with LINK after funding deployer account.**&#x20;
 
-* Testnet LINK is available from [https://kovan.chain.link/](https://kovan.chain.link)
+* Testnet LINK is available from [https://kovan.chain.link/](https://kovan.chain.link/)
 
 ![](../../.gitbook/assets/106748778-b0a51800-65f3-11eb-8a57-d6444748ffe9.png)
 
@@ -77,7 +77,7 @@ ToDo: gather the screen shots, show how I designed a dice roll with the RNG resu
 
 
 
-### Using an Aggregator
+### Using an Aggregator or Price Feed
 
 
 

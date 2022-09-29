@@ -8,8 +8,8 @@ description: >-
 
 ## Branch Info
 
-**Author: **[Austin Griffith](https://github.com/austintgriffith)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/gtgs-voice-gems](https://github.com/austintgriffith/scaffold-eth/tree/gtgs-voice-gems)\
+**Author:** [Austin Griffith](https://github.com/austintgriffith)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/gtgs-voice-gems](https://github.com/scaffold-eth/scaffold-eth-examples/tree/gtgs-voice-gems)\
 **Intended audience:** Beginners/Intermediate\
 **Topics:** Scaffold-eth basics, NFTs
 
@@ -40,7 +40,7 @@ yarn chain
 
 📝 Edit your frontend `App.jsx` in `packages/react-app/src`
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app
 
 [![image](https://user-images.githubusercontent.com/2653167/116164560-2d0d3b80-a6b7-11eb-9549-ae5d1c025268.png)](https://user-images.githubusercontent.com/2653167/116164560-2d0d3b80-a6b7-11eb-9549-ae5d1c025268.png)
 

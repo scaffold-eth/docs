@@ -6,8 +6,8 @@ description: Make micro payments in ETH with signatures over a open session
 
 ## Branch Info
 
-**Author: **[Viraz Malhotra](https://github.com/viraj124)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/payment-channel](https://github.com/austintgriffith/scaffold-eth/tree/payment-channel)\
+**Author:** [Viraz Malhotra](https://github.com/viraj124)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/payment-channel](https://github.com/scaffold-eth/scaffold-eth-examples/tree/payment-channel)\
 **Intended audience:** Intermediate\
 **Topics:** Scaffold-eth basics, State Channels
 

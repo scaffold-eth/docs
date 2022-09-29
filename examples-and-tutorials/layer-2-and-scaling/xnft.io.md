@@ -6,8 +6,8 @@ description: A fork of 🎨 Nifty.ink with file uploads.
 
 ## Tutorial Info
 
-**Author: **[Viraz Malhotra](https://github.com/viraj124)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/xnft](https://github.com/austintgriffith/scaffold-eth/tree/xnft)\
+**Author:** [Viraz Malhotra](https://github.com/viraj124)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/xnft](https://github.com/scaffold-eth/scaffold-eth-examples/tree/xnft)\
 **Intended audience:** Intermediate\
 **Topics:** Scaffold-eth basics, NFTs, Meta Transactions, Burner Wallets, xDAI
 
@@ -35,7 +35,7 @@ REACT_APP_GRAPHQL_ENDPOINT_MAINNET=https://api.thegraph.com/subgraphs/name/azf20
 
 Unzip `contracts_xdai_mainnet` in `packages/react-app/src` -> this should create a new `contracts` folder
 
-Get the react front-end up and running - [http://localhost:3000](http://localhost:3000)
+Get the react front-end up and running - [http://localhost:3000](http://localhost:3000/)
 
 ```
 cd xnft
@@ -61,7 +61,7 @@ REACT_APP_GRAPHQL_ENDPOINT_MAINNET=https://api.thegraph.com/subgraphs/name/azf20
 REACT_APP_USE_GSN=false
 ```
 
-_Terminal A:_ Get the react front-end up and running - [http://localhost:3000](http://localhost:3000)
+_Terminal A:_ Get the react front-end up and running - [http://localhost:3000](http://localhost:3000/)
 
 ```
 cd xnft
@@ -159,10 +159,10 @@ nifty.ink lets users upgrade their xDai ink NFTs to the Ethereum mainnet. This i
 
 * [Scaffold ETH](https://github.com/austintgriffith/scaffold-eth)
 * [React Canvas Draw](https://github.com/embiem/react-canvas-draw) for the drawing
-* [IPFS](https://ipfs.io) for storing the drawing and meta-information
-* [xDai](https://www.xdaichain.com) for the sidechain
+* [IPFS](https://ipfs.io/) for storing the drawing and meta-information
+* [xDai](https://www.xdaichain.com/) for the sidechain
 * [Tokenbridge](https://github.com/austintgriffith/scaffold-eth/blob/xnft/tokenbridge.net) for the bridge to mainnet
-* [TheGraph](https://thegraph.com) for the subgraph
-* [antd](https://ant.design) for the design library
+* [TheGraph](https://thegraph.com/) for the subgraph
+* [antd](https://ant.design/) for the design library
 * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) for the boilerplate contracts
-* [OpenGSN](http://opengsn.org) for the metatransactions
+* [OpenGSN](http://opengsn.org/) for the metatransactions

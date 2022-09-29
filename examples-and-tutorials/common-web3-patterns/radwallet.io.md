@@ -6,8 +6,8 @@ description: A simple web wallet to send around Rad tokens (ERC20 on mainnet).
 
 ## Branch Info
 
-**Author: **[Austin Griffith](https://github.com/austintgriffith)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/radwallet](https://github.com/austintgriffith/scaffold-eth/tree/radwallet)\
+**Author:** [Austin Griffith](https://github.com/austintgriffith)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/radwallet](https://github.com/scaffold-eth/scaffold-eth-examples/tree/radwallet)\
 **Intended audience:** Beginners/Intermediate\
 **Topics:** Scaffold-eth basics, wallets
 
@@ -40,4 +40,4 @@ yarn chain
 
 📝 Edit your frontend `App.jsx` in `packages/react-app/src`
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app

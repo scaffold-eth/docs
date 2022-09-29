@@ -2,7 +2,7 @@
 
 ## Branch Info
 
-**Author: **[Amogh Jahagirdar](https://github.com/0xamogh)****\
+**Author:** [Amogh Jahagirdar](https://github.com/0xamogh)****\
 **Source code:** [https://github.com/austintgriffith/scaffold-eth/tree/push-the-button-dev](https://github.com/austintgriffith/scaffold-eth/tree/push-the-button-dev)\
 **Intended audience:** Beginners/Intermediate\
 **Topics:** Scaffold-eth basics, Gaming
@@ -41,11 +41,11 @@ cd push-the-button-dev
 yarn deploy
 ```
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app
 
 What you are seeing right now is the default “push the button template” from `minesweeper.js`
 
-👛 Open an incognito window and navigate to [http://localhost:3000](http://localhost:3000) (You'll notice it has a new wallet address).
+👛 Open an incognito window and navigate to [http://localhost:3000](http://localhost:3000/) (You'll notice it has a new wallet address).
 
 ⛽️ Grab some gas for each account using the faucet:
 
@@ -91,7 +91,7 @@ The game here on is pretty straightforward
 
 ![image](https://user-images.githubusercontent.com/2653167/109537873-a2c0a680-7a7c-11eb-95de-729dbf3399a3.png)
 
-👛 View your deployer address using `yarn account` (You'll need to fund this account. Hint: use an [instant wallet](https://instantwallet.io) to fund your account via QR code)
+👛 View your deployer address using `yarn account` (You'll need to fund this account. Hint: use an [instant wallet](https://instantwallet.io/) to fund your account via QR code)
 
 ![image](https://user-images.githubusercontent.com/2653167/109537339-ff6f9180-7a7b-11eb-85b0-46cd72311d12.png)
 
@@ -121,7 +121,7 @@ Currently the user gets heavily penalised if he misses a turn, be more kind to y
 
 **🔶 Infura**
 
-> You will need to get a key from [infura.io](https://infura.io) and paste it into `constants.js` in `packages/react-app/src`:
+> You will need to get a key from [infura.io](https://infura.io/) and paste it into `constants.js` in `packages/react-app/src`:
 
 ![image](https://user-images.githubusercontent.com/2653167/109541146-b5d57580-7a80-11eb-9f9e-04ea33f5f45a.png)
 

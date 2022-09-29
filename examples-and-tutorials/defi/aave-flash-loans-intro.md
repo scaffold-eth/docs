@@ -2,8 +2,8 @@
 
 ## Branch Info
 
-**Author: **[Temirzhan Yussupov](https://github.com/ironsoul0)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/simple-nft-example](https://github.com/austintgriffith/scaffold-eth/commits/flash-loans-intro)\
+**Author:** [Temirzhan Yussupov](https://github.com/ironsoul0)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/simple-nft-example](https://github.com/scaffold-eth/scaffold-eth-examples/tree/simple-nft-example)\
 **Intended audience:** Intermediate\
 **Topics:** Scaffold-eth basics, Flash Loans, Aave, Uniswap, Sushiswap, ERC-20
 
@@ -48,7 +48,7 @@ yarn install
 yarn start
 ```
 
-**4- Fork mainnet and start your local blockhain using **[**Hardhat**](https://hardhat.org)****
+**4- Fork mainnet and start your local blockhain using** [**Hardhat**](https://hardhat.org/)****
 
 ```
 yarn fork
@@ -60,13 +60,13 @@ yarn fork
 
 Watch [this video](https://www.youtube.com/watch?v=xcBT4Jmi5TM\&feature=youtu.be) to learn more about mainnet forking.
 
-5-** Deploy your smart contracts to a local blockchain**
+5- **Deploy your smart contracts to a local blockchain**
 
 ```
 yarn deploy
 ```
 
-**Pro Tip: **Use [tmux](https://linuxize.com/post/getting-started-with-tmux/) to easily start all commands in a single terminal window!
+**Pro Tip:** Use [tmux](https://linuxize.com/post/getting-started-with-tmux/) to easily start all commands in a single terminal window!
 
 If everything worked fine, you have to have something like this opened in your browser:
 
@@ -178,7 +178,7 @@ This trade was not optimal and ideally we had to revert it. Obviously, you shoul
 ## Additional resources
 
 * [Finematics explains Flash Loans](https://www.youtube.com/watch?v=mCJUhnXQ76s) - Nice theory explanation
-* [Furucombo App](https://furucombo.app) - Flash loans using drag and drop without coding (!)
+* [Furucombo App](https://furucombo.app/) - Flash loans using drag and drop without coding (!)
 
 ## Contact
 

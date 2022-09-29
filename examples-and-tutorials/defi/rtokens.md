@@ -6,8 +6,8 @@ description: tokens that represent redirected yield from lending
 
 ## Branch Info
 
-**Author: **[Saddam Asmatullayev](https://github.com/sadda11asm)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/defi-rtokens](https://github.com/austintgriffith/scaffold-eth/tree/defi-rtokens)\
+**Author:** [Saddam Asmatullayev](https://github.com/sadda11asm)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/defi-rtokens](https://github.com/scaffold-eth/scaffold-eth-examples/tree/defi-rtokens)\
 **Intended audience:** Intermediate\
 **Topics:** Scaffold-eth basics, ERC-20 token, yield farming
 
@@ -27,7 +27,7 @@ Table of Contents
 
 ### About The Project
 
-rTokens are the tokens exchangeable for their underlying ones (e.g. rDai -> Dai). The principle is similar to cTokens. If someone exchanges tokens for rTokens they could be able to earn interest over the time. However, what differentiates rTokens from cTokens is that with rTokens owner could also share the interest with others. Great example of that is [rTrees](https://rtrees.dappy.dev). Here people could contribute part of their interest to plant the real trees!
+rTokens are the tokens exchangeable for their underlying ones (e.g. rDai -> Dai). The principle is similar to cTokens. If someone exchanges tokens for rTokens they could be able to earn interest over the time. However, what differentiates rTokens from cTokens is that with rTokens owner could also share the interest with others. Great example of that is [rTrees](https://rtrees.dappy.dev/). Here people could contribute part of their interest to plant the real trees!
 
 ### Getting Started
 
@@ -63,7 +63,7 @@ yarn install
 yarn start
 ```
 
-1. Spin up your local blockchain by forking mainnet! [Hardhat](https://hardhat.org)
+1. Spin up your local blockchain by forking mainnet! [Hardhat](https://hardhat.org/)
 
 ```
 yarn fork

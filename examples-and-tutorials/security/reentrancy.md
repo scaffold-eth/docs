@@ -2,7 +2,7 @@
 
 ## Branch Info
 
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/simple-nft-example](https://github.com/austintgriffith/scaffold-eth/tree/reentrancy-example)\
+**Source code:**[ https://github.com/scaffold-eth/scaffold-eth-examples/tree/simple-nft-example](https://github.com/scaffold-eth/scaffold-eth-examples/tree/simple-nft-example)\
 **Intended audience:** Beginners/Intermediate\
 **Topics:** Scaffold-eth basics, Security
 
@@ -58,7 +58,7 @@ yarn deploy
 
 📝 Edit your frontend `App.jsx` in `packages/react-app/src`
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app
 
 First try interacting with `Reenterancy.sol` directly. You can deposit, check your balance, and withdraw:
 

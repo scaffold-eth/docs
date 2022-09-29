@@ -2,8 +2,8 @@
 
 ## Branch Info
 
-**Author: **[Pablo Ruiz](https://github.com/pabloruiz55)****\
-**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/simple-nft-example](https://github.com/austintgriffith/scaffold-eth/tree/simple-erc1155-nft-example)\
+**Author:** [Pablo Ruiz](https://github.com/pabloruiz55)****\
+**Source code:** [https://github.com/scaffold-eth/scaffold-eth-examples/tree/simple-erc1155-example](https://github.com/scaffold-eth/scaffold-eth-examples/tree/simple-erc1155-example)\
 **Intended audience:** Beginners/Intermediate\
 **Topics:** Scaffold-eth basics, NFTs, IPFS, ERC-1155
 
@@ -54,7 +54,7 @@ In the deployment script (`/packages/hardhat/deploy/00_deploy_your_contract.js`)
 
 ![](../../.gitbook/assets/screen-shot-2021-06-30-at-2.02.20-pm.png)
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app
 
 > ✏️ Edit the mint script `mint.js` in `packages/hardhat/scripts` and update the `toAddress` to your frontend address (wallet address in the top right or localhost:3000).
 
@@ -70,7 +70,7 @@ yarn mint
 
 ![](../../.gitbook/assets/screen-shot-2021-06-30-at-1.53.49-pm.png)
 
-👛 Open an _incognito_ window and navigate to [http://localhost:3000](http://localhost:3000) (You'll notice it has a new wallet address).⛽️ Grab some gas for each account using the faucet:
+👛 Open an _incognito_ window and navigate to [http://localhost:3000](http://localhost:3000/) (You'll notice it has a new wallet address).⛽️ Grab some gas for each account using the faucet:
 
 ![](https://user-images.githubusercontent.com/2653167/109543971-35b10f00-7a84-11eb-832e-36d6b66afbe7.png)
 

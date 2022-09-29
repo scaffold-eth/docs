@@ -4,7 +4,7 @@
 
 ## Live app
 
-Check it out at [signator.io](https://signator.io)
+Check it out at [signator.io](https://signator.io/)
 
 ## 🏃‍♀️ Quick Start
 
@@ -24,7 +24,7 @@ yarn install
 yarn start
 ```
 
-📱 Open [http://localhost:3000](http://localhost:3000) to see the app
+📱 Open [http://localhost:3000](http://localhost:3000/) to see the app
 
 📝 Sign new messages from the home page `/` (`Signator.jsx` in `packages/react-app/src`)
 
