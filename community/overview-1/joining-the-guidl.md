@@ -1,4 +1,3 @@
 # 🏰 Joining the Guidl
 
-Build something with Scaffold-eth and then talk to Austin! 
-
+After going through Speed Run Ethereum, submitting the builds to your builder profile,  being active in the BuidlGuidl Telegram groups you can come and join BuidlGuidl!

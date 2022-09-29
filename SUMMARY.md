@@ -98,12 +98,11 @@
   * [Opening a Pull Request](community/contributing/opening-a-pull-request.md)
   * [Contributing to the Docs](community/contributing/contributing-to-the-docs.md)
   * [Creating a Challenge or Tutorial](community/contributing/creating-a-challenge-or-tutorial.md)
-* [BuidlGuidl.com](community/overview-1/README.md)
+* [BuidlGuidl](community/overview-1/README.md)
   * [🏰 Joining the Guidl](community/overview-1/joining-the-guidl.md)
   * [How to submit a build](community/overview-1/how-to-submit-a-build.md)
 
 ## Support
 
 * [Getting help](support/getting-help.md)
-* [Changelog](support/changelog.md)
 * [Support Scaffold-eth & BuidlGuidl](support/support-scaffold-eth-and-buidlguidl.md)
