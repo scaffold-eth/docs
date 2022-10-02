@@ -96,7 +96,7 @@ Once the development server starts and your app is done compiling it should be r
 
 ![](../.gitbook/assets/screen-shot-2021-06-24-at-11.27.55-am.png)
 
-The starter project comes with a few pre-made views, but the ones you should focus on for now are the YourContract section and the ExampleUI section which showcase the two ways you can work with Scaffold-eth to build UIs.
+The starter project comes with a few pre-made views, but the ones you should focus on for now are the **YourContract** section and the **ExampleUI** section which showcase the two ways you can work with Scaffold-eth to build UIs.
 
 **The YourContract section** is using one of the many handy React components Scaffold-eth offers, the `<Contract />` component, which given a contract name you have compiled, it will parse it and create a UI for it exposing all the public variables and methods it has. This is very useful when you want to quickly test your contracts but offers no flexibility in terms of good UX.
 
@@ -137,7 +137,7 @@ If you remember, when we ran `yarn chain` to launch Hardhat Network, we saw that
 ![](../.gitbook/assets/screen-shot-2021-06-24-at-11.56.59-am.png)
 
 {% hint style="danger" %}
-DO NOT USE THESE ACCOUNTS ON MAINNET. Everyone reading this or the Hardhat docs has access to these accounts.
+**DO NOT USE THESE ACCOUNTS ON MAINNET.** Everyone reading this or the Hardhat docs has access to these accounts.
 {% endhint %}
 
 ## Next Steps

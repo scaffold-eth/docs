@@ -1,7 +1,6 @@
 # 🚢 Shipping Your App
 
-Shipping your app is very easy with Scaffold-eth. \
-You can do it from the command-line with any of these services:
+Shipping your app is very easy with Scaffold-eth. You can do it from the command-line with any of these services:
 
 * Surge
 * S3

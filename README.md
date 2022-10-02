@@ -18,13 +18,15 @@ Scaffold-eth provides an off-the-shelf stack for rapid prototyping on Ethereum, 
 
 ## The Scaffold-eth stack
 
-Scaffold-eth is not a product itself but more of a combination or stack of other great products. It allows you to quickly build and iterate over your smart contracts and frontends. It leverages:
+Scaffold-eth is not a product itself but more of a combination or stack of other great tools. It allows you to quickly build and iterate over your smart contracts and frontends. \
+\
+Here are the main components:
 
 * **Solidity** for writing smart contracts.
 * **Hardhat** for running local networks, deploying and testing smart contracts.
 * **React** for building a frontend, using many useful pre-made components and hooks.
 * **Ethers.js** for interacting with deployed smart contracts and the frontend
-* **Ant** for your UI. But can be easily changed to Bootstrap or some other library you prefer.
+* **Ant** for your UI. Can be easily changed to Bootstrap or some other library you prefer.
 
 ## About this Guide
 
@@ -37,11 +39,13 @@ The Scaffold-eth documentation is broken up into **three main sections**.&#x20;
 
 **2. Toolkit** - In the **Toolkit** section we cover a brief overview of the tools the Scaffold-eth wraps and utilizes, we look at some of the unique frontend resources that Scaffold-eth provides out of the box, and we look at some of the extra infrastructure features that can be helpful as developers begin to create more sophisticated projects.
 
-**3. Challenge Course and Tutorials** - In the **Challenge Course and Tutorials** sections we provide a challenge course of tasks that you can take on to level-up your Scaffold-eth and web3 skills, as well as a catalog of recipes for some of the unique value props that web3 and the Ethereum ecosystem provides. Looking for some inspiration? Check out the cookbook and start mixing and mashing.&#x20;
+**3. SpeedRunEthereum** - In the **SpeedRunEthereum** sections we provide an overview of the tasks that you can challenges that you can take on at [SpeedRunEthereum.com](https://speedrunethereum.com/) to level-up your Scaffold-eth and web3 skills, as well as a catalog of recipes for some of the unique value props that web3 and the Ethereum ecosystem provides.&#x20;
+
+<figure><img src=".gitbook/assets/2022-09-26 17.23.58.jpg" alt=""><figcaption><p><a href="https://speedrunethereum.com/">https://speedrunethereum.com/</a></p></figcaption></figure>
 
 Check the **Built with Scaffold-eth** section to see some production-grade projects built with Scaffold-eth.
 
-BuidlGuidl.com is a community that builds solutions based on Scaffold-eth. Learn more about it on the **BuidlGuidl.com** section.
+[BuidlGuidl.com](https://buidlguidl.com/) is a community that builds solutions based on Scaffold-eth. Learn more about it on the **BuidlGuidl.com** section.
 
 Finally, if you are running into some issue, check the **Support** section to find out how to get some help or troubleshoot some common problems people usually run into.
 

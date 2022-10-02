@@ -35,7 +35,7 @@
   * [🗃 Blocknative](toolkit/infrastructure/blocknative.md)
   * [⚖️ L2 / Sidechain Services](toolkit/infrastructure/l2-sidechain-services.md)
 
-## Speed run challenge course <a href="#challenges" id="challenges"></a>
+## SpeedRunEthereum  <a href="#challenges" id="challenges"></a>
 
 * [🧙‍♂️     About the Speed Run](challenges/about-these-challenges.md)
 * [🏃‍♀️     Speed Run Ethereum Challenges](challenges/speed-run-ethereum-challenges.md)
@@ -100,9 +100,9 @@
   * [Creating a Challenge or Tutorial](community/contributing/creating-a-challenge-or-tutorial.md)
 * [BuidlGuidl](community/overview-1/README.md)
   * [🏰 Joining the Guidl](community/overview-1/joining-the-guidl.md)
-  * [How to submit a build](community/overview-1/how-to-submit-a-build.md)
+  * [🏗 How to submit a build](community/overview-1/how-to-submit-a-build.md)
 
 ## Support
 
 * [Getting help](support/getting-help.md)
-* [Support Scaffold-eth & BuidlGuidl](support/support-scaffold-eth-and-buidlguidl.md)
+* [Become a BuidlGuidl Partner](support/become-a-buidlguidl-partner.md)
