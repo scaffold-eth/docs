@@ -2,7 +2,7 @@
 
 
 
-A simple app that lets you sign a massage with an Ethereum account & generate shareable proof-of-signature links. \
+A simple app that lets you sign a message with an Ethereum account & generate shareable proof-of-signature links. \
 \
 Check it out at [signator.io](https://signator.io/)\
 \
